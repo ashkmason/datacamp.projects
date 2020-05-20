@@ -1,1 +1,1 @@
-This is a repository of the DataCamp projects that I have done.
+This is a repository of the DataCamp projects that I have done in python.
