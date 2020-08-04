@@ -232,7 +232,7 @@ This is a repository of the DataCamp projects that I have done in python.
   - df.drop()
 - Numpy
   - .NaN
--Scikit-learn
+- Scikit-learn
   - preprocessing
     - LabelEncoder()
       - .fit_transform()
