@@ -416,3 +416,24 @@ This is a repository of the DataCamp projects that I have done in python.
   - df.groupby().count()
   - df.unstack()
   - df.plot()
+  
+### Project: A Network Analysis of Game of Thrones
+##### Used basic data manipulation and network analysis to determine which characters were the most important in the books from start to finish.
+#### Techniques Used
+- Data manipulation
+- Network analysis
+#### Libraries and Functions used
+- Pandas
+  - .read_csv()
+  - df.head()
+  - df.iterrows()
+  - .DataFrame.from_records()
+  - df.plot()
+  - df.corr()
+  - df.idxmax()
+- Networkx
+  - .Graph()
+  - .add_edge()
+  - .degree_centrality()
+  - .betweenness_centrality()
+  - .pagerank()
