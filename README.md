@@ -437,3 +437,25 @@ This is a repository of the DataCamp projects that I have done in python.
   - .degree_centrality()
   - .betweenness_centrality()
   - .pagerank()
+  
+### Project: Word Frequency in Peter Pan -- Unguided
+##### Used basic string cutting to select text and perform NLP analysis to determine the top mentioned characters.
+#### Techniques Used
+- Importing and Cleaning Data
+- Case Studies
+#### Libraries and Functions used
+- requests
+  - .get()
+  - .ststus_code
+  - .encoding
+  - .text
+- nltk
+  - .tokenize.RegexpTokenizer()
+  - .download()
+  - .stopwords.words('english')
+- bs4
+  - BeautifulSoup()
+  - .text
+- collections
+  - Counter()
+  - .most_common
